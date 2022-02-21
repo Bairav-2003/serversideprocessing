@@ -142,7 +142,7 @@ html Code:-
 ~~~
 
 ## OUTPUT:
-!()[b22.png]
+![](b22.png)
 
 ### Home Page:
 
